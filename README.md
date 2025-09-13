@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**Bailo® ** 
+## Bailo®
 
 ## 🏆 HackerRank Badges  
 ![C++](https://img.shields.io/badge/CPP-blue)  
